@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: barbe
+@author: Barbara Ikica
 """
 
 from distutils.core import setup, Extension
