@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan 28 10:28:49 2019
-
 @author: barbe
 """
 
@@ -16,4 +14,4 @@ setup(
 )
 
 #python setup.py build_ext --inplace
-#cython -a PWC.pyx
+#cython -a mPW.pyx
