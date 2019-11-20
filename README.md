@@ -52,4 +52,4 @@ See the [Tutorial](https://nbviewer.jupyter.org/github/ikicab/mPW/blob/master/Tu
 
 ## References
 [1] B. Ikica, *Clustering via a Modified Petford–Welsh Algorithm*. *To appear in Ars Mathematica Contemporanea (AMC)*.  
-[2] B. Ikica, J. Povh, J. Žerovnik, *Clustering as a Dual Problem to Colouring*. *In progress*.
+[2] B. Ikica, J. Povh, J. Žerovnik, *Clustering as a Dual Problem to Colouring*. *Submitted*.
