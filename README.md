@@ -31,7 +31,7 @@ The algorithm accepts the following input parameters – note that only the inpu
 | `g` | `igraph.Graph` | the (undirected) graph to be clustered | 
 | `k` | `int` | the initial number of clusters (colours) |
 | `maxStep` | `int` | the maximum permitted number of steps (ignored if `0`) | `0`
-| `window_size` | `int` | the length of the sliding window over which the sample variance in the number of bad edges is computed | `len(g.vs)` if `maxStep == 0`, otherwise `0`
+| `window_size` | `int` | the length of the sliding window over which the sample variance in the number of bad edges is computed | `0` or `len(g.vs)` if `maxStep == 0`
 | `tol` | `float` | tolerance on the sliding-window variance | `0.001`
 | `w` | `int` | the weight parameter in the probability of recolouring | `6`
 | `fine_tun1` | `bool` | a flag indicating whether to recolour all leftover singleton clusters with the most frequent colours in their respective neighbourhoods as a fine-tuning step | `False`
