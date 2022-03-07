@@ -65,6 +65,6 @@ See the [Tutorial](https://nbviewer.jupyter.org/github/ikicab/mPW/blob/master/Tu
 <a id="1">[1]</a>
 B. Ikica, *Clustering via a Modified Petford–Welsh Algorithm*, Ars Math. Contemp. 18(1) (2020), 33–49. _Available [here](https://doi.org/10.26493/1855-3974.2079.7b1)._\
 <a id="2">[2]</a>
-B. Ikica, J. Povh, J. Žerovnik, *Clustering as a Dual Problem to Colouring*. *Submitted, available [here](https://www.researchgate.net/publication/341041631_Clustering_as_a_Dual_Problem_to_Colouring)*.
+B. Ikica, J. Povh, J. Žerovnik, *Clustering as a Dual Problem to Colouring*. To appear in *Comput. Appl. Math.* _Available [here](https://www.researchgate.net/publication/341041631_Clustering_as_a_Dual_Problem_to_Colouring)._
 
 The figures above were prepared with the [```LaTeX```](https://www.latex-project.org/) drawing package [```PGF/TikZ```](https://github.com/pgf-tikz/pgf).
